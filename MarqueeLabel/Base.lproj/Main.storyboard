@@ -40,6 +40,9 @@
                             <constraint firstItem="PQL-5d-VZ7" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="10" id="kSC-4v-mnZ"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="marquee" destination="PQL-5d-VZ7" id="ggT-7g-h0U"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
