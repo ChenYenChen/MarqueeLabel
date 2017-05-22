@@ -1,6 +1,10 @@
 # 跑馬燈
 跑馬燈效果的Lable - MarqueeLabel
 
+
+![img](https://github.com/ChenYenChen/MarqueeLabel/blob/master/跑馬燈.gif)
+
+
 ```
 @IBOutlet weak var marquee: MarqueeLabelAction!
 ```
